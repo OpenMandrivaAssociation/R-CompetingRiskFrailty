@@ -13,7 +13,7 @@ URL:              None
 Source0:          http://cran.r-project.org/src/contrib/Archive/CompetingRiskFrailty/CompetingRiskFrailty_1.0.tar.gz
 BuildArch:        noarch
 Requires:         R-core
-BuildRequires:    Rmath-devel texlive-collection-latex 
+BuildRequires:    R-devel texlive-collection-latex 
 %rename R-cran-CompetingRiskFrailty
 
 %description
