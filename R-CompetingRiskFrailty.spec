@@ -9,7 +9,7 @@ Release:          1
 Summary:          Competing Risk Model with Frailties for Right Censored Survival Data
 Group:            Sciences/Mathematics
 License:          GPL version 2 or newer
-URL:              None
+URL:              http://cran.r-project.org/web/packages/CompetingRiskFrailty/index.html
 Source0:          http://cran.r-project.org/src/contrib/Archive/CompetingRiskFrailty/CompetingRiskFrailty_1.0.tar.gz
 BuildArch:        noarch
 Requires:         R-core
