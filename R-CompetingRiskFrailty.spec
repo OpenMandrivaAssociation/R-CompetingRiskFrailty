@@ -49,3 +49,38 @@ rm -f %{buildroot}%{rlibdir}/R.css
 %{rlibdir}/%{packname}/R
 %{rlibdir}/%{packname}/data
 %{rlibdir}/%{packname}/help
+
+
+%changelog
+* Thu Feb 16 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:2.0-1
++ Revision: 774959
+- Update to latest version
+
+* Thu Feb 16 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:1.0-1
++ Revision: 774625
+- Update and rebuild with R2spec
+- Update and rebuild with R2spec
+
+* Thu Dec 09 2010 Oden Eriksson <oeriksson@mandriva.com> 2.0-6mdv2011.0
++ Revision: 616440
+- the mass rebuild of 2010.0 packages
+
+* Tue Sep 08 2009 Thierry Vignaud <tv@mandriva.org> 2.0-5mdv2010.0
++ Revision: 433078
+- rebuild
+
+* Fri Aug 01 2008 Thierry Vignaud <tv@mandriva.org> 2.0-4mdv2009.0
++ Revision: 260127
+- rebuild
+
+* Fri Jul 25 2008 Thierry Vignaud <tv@mandriva.org> 2.0-3mdv2009.0
++ Revision: 248229
+- rebuild
+
+* Sun Feb 17 2008 Tomasz Pawel Gajc <tpg@mandriva.org> 2.0-1mdv2008.1
++ Revision: 169920
+- complete spec file
+- fix Url
+- add source and spec file
+- Created package structure for R-cran-CompetingRiskFrailty.
+
