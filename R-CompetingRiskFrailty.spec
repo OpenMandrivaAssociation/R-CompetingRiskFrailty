@@ -4,7 +4,7 @@
 Name:             R-%{packname}
 Epoch:            1
 Version:          2.0
-Release:          1
+Release:          2
 Summary:          Competing Risk Model with Frailties for Right Censored Survival Data
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
